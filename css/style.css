@@ -23,8 +23,6 @@ body {
 .icons a:hover {
     color: lightblue;
 }
-
-
 /*==========Navbar==========*/
 
 .navbar {
@@ -111,8 +109,6 @@ body {
 .om_oss {
     width: 105px;
 }
-
-
 /*=====Header======*/
 
 .banner {
@@ -141,8 +137,6 @@ body {
     color: blue;
     border-radius: 10px 20px 10px 20px;
 }
-
-
 /* btn-1 */
 
 
@@ -201,8 +195,6 @@ body {
 .far {
     color: #01012e;
 }
-
-
 /*End of About section*/
 
 
@@ -300,8 +292,6 @@ body {
     opacity: 1;
     transition-delay: 0.4s;
 }
-
-
 /*End of Project Section*/
 
 
