@@ -113,8 +113,9 @@ body {
 
 .banner {
     height: 100vh;
-    background: linear-gradient(rgba(2, 0, 36, 0.349), rgba(9, 9, 121, 0.295)), url('media/pexels-pixabay.jpg');
+    background-image: url('../media/pexels-pixabay.jpg');
     justify-content: center;
+    background-size: cover;
     align-items: center;
 }
 
@@ -391,12 +392,14 @@ body {
 /*Carousel*/
 
 
-/*Testimonial*/
+/*Partners*/
 
 .all {
     background: #01012e;
 }
-
+.partners{
+    padding: 0 0 0 750px;
+}
 .des-color {
     color: #fff;
 }
@@ -413,6 +416,10 @@ body {
 .testimonial h2 {
     font-weight: bold;
     color: #fff;
+}
+
+.logo{
+    width: 200px;
 }
 
 
