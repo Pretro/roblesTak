@@ -38,6 +38,10 @@ body {
 .item{
     margin: 0 0 4px 0;
 }
+
+.shadows{
+    margin: 0 0 10px 0;
+}
 /*==========Navbar==========*/
 
 .navbar {
